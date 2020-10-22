@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-10-22T16:04:46.9584554Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2020-10-22T16:05:09.3536361Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "35091ee4-fcc2-4753-9482-7daadfd86909"
+    },
+    "appInsights1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "CodeHubTestProjectDevOps-rg"
+    },
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "35091ee4-fcc2-4753-9482-7daadfd86909"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "codehubtestprojectdevops-rg"
+    }
+  }
+}
