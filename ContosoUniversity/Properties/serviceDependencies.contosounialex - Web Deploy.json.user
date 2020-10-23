@@ -2,11 +2,11 @@
   "dependencies": {
     "mssql1": {
       "restored": true,
-      "restoreTime": "2020-10-23T08:08:40.0064172Z"
+      "restoreTime": "2020-10-23T10:45:00.1005126Z"
     },
     "appInsights1": {
       "restored": true,
-      "restoreTime": "2020-10-23T08:11:00.5724191Z"
+      "restoreTime": "2020-10-23T10:45:24.3831068Z"
     }
   },
   "parameters": {

@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "ContosoUniversity20201023110131",
+      "defaultValue": "contosounialex",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
