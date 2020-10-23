@@ -13,6 +13,6 @@
     <WebStackScaffolding_DbContextTypeFullName>ContosoUniversity.Data.SchoolContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>CodeHubTestProjectDevOps - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>ContosoUniversity20201023110131 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

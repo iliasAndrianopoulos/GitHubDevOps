@@ -2,11 +2,11 @@
   "dependencies": {
     "mssql1": {
       "restored": true,
-      "restoreTime": "2020-10-22T16:04:46.9584554Z"
+      "restoreTime": "2020-10-23T08:08:40.0064172Z"
     },
     "appInsights1": {
       "restored": true,
-      "restoreTime": "2020-10-22T16:05:09.3536361Z"
+      "restoreTime": "2020-10-23T08:11:00.5724191Z"
     }
   },
   "parameters": {
@@ -16,7 +16,7 @@
     },
     "appInsights1.resourceGroupName": {
       "Type": "resourceGroup",
-      "Value": "CodeHubTestProjectDevOps-rg"
+      "Value": "contosounialex-rg"
     },
     "mssql1.subscriptionId": {
       "Type": "subscription",
@@ -24,7 +24,7 @@
     },
     "mssql1.resourceGroupName": {
       "Type": "resourceGroup",
-      "Value": "codehubtestprojectdevops-rg"
+      "Value": "contosounialex-rg"
     }
   }
 }
