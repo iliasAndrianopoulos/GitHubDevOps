@@ -198,5 +198,8 @@ C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.
 C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
 C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
-C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\appInsights1.arm.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\mssql1.arm.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\Azure.Identity.dll

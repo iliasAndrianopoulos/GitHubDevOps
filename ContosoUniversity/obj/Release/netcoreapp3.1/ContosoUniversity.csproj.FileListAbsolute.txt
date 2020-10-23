@@ -200,3 +200,11 @@ C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp
 C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContosoUniversity20201023110131 - Web Deploy\appInsights1.arm.json
 C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContosoUniversity20201023110131 - Web Deploy\mssql1.arm.json
 C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContosoUniversity20201023110131 - Web Deploy\profile.arm.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ContosoUniversity20201023110131 - Web Deploy\secrets1.arm.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\local\appInsights1.arm.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\local\mssql1.arm.json
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
