@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
